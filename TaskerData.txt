@@ -1,9 +1,10 @@
 <TaskerData sr="" dvi="1" tv="5.1m">
 	<Profile sr="prof13" ve="2">
 		<cdate>1475529026303</cdate>
-		<edate>1475529026303</edate>
+		<edate>1528250503808</edate>
 		<flags>2</flags>
 		<id>13</id>
+		<limit>true</limit>
 		<mid0>10</mid0>
 		<Time sr="con0">
 			<fh>6</fh>
@@ -14,9 +15,10 @@
 	</Profile>
 	<Profile sr="prof15" ve="2">
 		<cdate>1475529048676</cdate>
-		<edate>1475529048676</edate>
+		<edate>1528250504240</edate>
 		<flags>2</flags>
 		<id>15</id>
+		<limit>true</limit>
 		<mid0>9</mid0>
 		<Time sr="con0">
 			<fh>21</fh>
@@ -27,9 +29,10 @@
 	</Profile>
 	<Profile sr="prof16" ve="2">
 		<cdate>1475529070979</cdate>
-		<edate>1475529070979</edate>
+		<edate>1528250504423</edate>
 		<flags>2</flags>
 		<id>16</id>
+		<limit>true</limit>
 		<mid0>12</mid0>
 		<Time sr="con0">
 			<fh>22</fh>
@@ -40,9 +43,10 @@
 	</Profile>
 	<Profile sr="prof18" ve="2">
 		<cdate>1476163829759</cdate>
-		<edate>1476332943185</edate>
+		<edate>1525928809257</edate>
 		<flags>2</flags>
 		<id>18</id>
+		<limit>true</limit>
 		<mid0>20</mid0>
 		<nme>Reset Wallpapers</nme>
 		<State sr="con0" ve="2">
@@ -58,9 +62,10 @@
 	</Profile>
 	<Profile sr="prof22" ve="2">
 		<cdate>1476151308837</cdate>
-		<edate>1514857603386</edate>
+		<edate>1525928808596</edate>
 		<flags>2</flags>
 		<id>22</id>
+		<limit>true</limit>
 		<mid0>21</mid0>
 		<nme>New Day 2.0</nme>
 		<Time sr="con0">
@@ -72,7 +77,7 @@
 	</Profile>
 	<Profile sr="prof23" ve="2">
 		<cdate>1476210424164</cdate>
-		<edate>1512085249955</edate>
+		<edate>1528690964594</edate>
 		<flags>2</flags>
 		<id>23</id>
 		<limit>true</limit>
@@ -97,8 +102,7 @@
 	</Profile>
 	<Profile sr="prof25" ve="2">
 		<cdate>1476213531117</cdate>
-		<edate>1502558047220</edate>
-		<flags>2</flags>
+		<edate>1528691051990</edate>
 		<id>25</id>
 		<mid0>24</mid0>
 		<mid1>26</mid1>
@@ -124,25 +128,6 @@
 			<tm>3</tm>
 		</Time>
 	</Profile>
-	<Profile sr="prof30" ve="2">
-		<cdate>1499693600239</cdate>
-		<edate>1499913272043</edate>
-		<flags>2</flags>
-		<id>30</id>
-		<limit>true</limit>
-		<mid0>42</mid0>
-		<nme>Daily Dialog</nme>
-		<Time sr="con0">
-			<fh>3</fh>
-			<fm>0</fm>
-			<th>12</th>
-			<tm>0</tm>
-		</Time>
-		<State sr="con1" ve="2">
-			<code>123</code>
-			<Int sr="arg0" val="1"/>
-		</State>
-	</Profile>
 	<Profile sr="prof33" ve="2">
 		<cdate>1493533984865</cdate>
 		<edate>1493576552457</edate>
@@ -157,36 +142,6 @@
 			<code>123</code>
 			<Int sr="arg0" val="1"/>
 		</State>
-	</Profile>
-	<Profile sr="prof34" ve="2">
-		<cdate>1499694179657</cdate>
-		<edate>1502081836349</edate>
-		<flags>2</flags>
-		<id>34</id>
-		<limit>true</limit>
-		<mid0>31</mid0>
-		<nme>Reset Daily Dialog</nme>
-		<Time sr="con0">
-			<fh>2</fh>
-			<fm>59</fm>
-			<th>2</th>
-			<tm>59</tm>
-		</Time>
-	</Profile>
-	<Profile sr="prof37" ve="2">
-		<cdate>1501639605952</cdate>
-		<edate>1502081836690</edate>
-		<flags>2</flags>
-		<id>37</id>
-		<limit>true</limit>
-		<mid0>35</mid0>
-		<nme>Daily Message</nme>
-		<Time sr="con0">
-			<fh>0</fh>
-			<fm>6</fm>
-			<th>0</th>
-			<tm>6</tm>
-		</Time>
 	</Profile>
 	<Profile sr="prof39" ve="2">
 		<cdate>1510165426619</cdate>
@@ -205,18 +160,18 @@
 			<tm>59</tm>
 		</Time>
 		<Day sr="con1">
-			<mday0>11</mday0>
-			<mday1>13</mday1>
-			<mday10>18</mday10>
-			<mday11>20</mday11>
-			<mday2>22</mday2>
+			<mday0>16</mday0>
+			<mday1>17</mday1>
+			<mday10>14</mday10>
+			<mday11>15</mday11>
+			<mday2>18</mday2>
 			<mday3>19</mday3>
-			<mday4>17</mday4>
-			<mday5>12</mday5>
-			<mday6>14</mday6>
-			<mday7>21</mday7>
-			<mday8>16</mday8>
-			<mday9>15</mday9>
+			<mday4>20</mday4>
+			<mday5>21</mday5>
+			<mday6>22</mday6>
+			<mday7>11</mday7>
+			<mday8>12</mday8>
+			<mday9>13</mday9>
 			<mnth0>10</mnth0>
 		</Day>
 	</Profile>
@@ -232,19 +187,6 @@
 			<code>3</code>
 			<Str sr="arg0" ve="3">Sony Car Audio</Str>
 			<Str sr="arg1" ve="3">B8:EE:65:CF:BF:CC</Str>
-		</State>
-	</Profile>
-	<Profile sr="prof43" ve="2">
-		<cdate>1499693001126</cdate>
-		<edate>1499702497973</edate>
-		<flags>2</flags>
-		<id>43</id>
-		<limit>true</limit>
-		<mid0>41</mid0>
-		<nme>Daily Snap</nme>
-		<State sr="con0" ve="2">
-			<code>123</code>
-			<Int sr="arg0" val="1"/>
 		</State>
 	</Profile>
 	<Profile sr="prof45" ve="2">
@@ -341,118 +283,10 @@ Notification Title: Work</com.twofortyfouram.locale.intent.extra.BLURB>
 			<Str sr="arg2" ve="3">com.joaomgcd.autonotification.activity.ActivityConfigNotificationInterceptTaskerEvent</Str>
 		</Event>
 	</Profile>
-	<Profile sr="prof53" ve="2">
-		<cdate>1512523025862</cdate>
-		<edate>1514875202024</edate>
-		<flags>2</flags>
-		<id>53</id>
-		<limit>true</limit>
-		<mid0>49</mid0>
-		<nme>Text From Katie</nme>
-		<Event sr="con0" ve="2">
-			<code>7</code>
-			<pri>0</pri>
-			<Int sr="arg0" val="0"/>
-			<Str sr="arg1" ve="3">4028533538</Str>
-			<Str sr="arg2" ve="3"/>
-		</Event>
-	</Profile>
-	<Profile sr="prof54" ve="2">
-		<cdate>1512524074782</cdate>
-		<edate>1514875202430</edate>
-		<flags>2</flags>
-		<id>54</id>
-		<limit>true</limit>
-		<mid0>51</mid0>
-		<nme>Text From Zak</nme>
-		<Event sr="con0" ve="2">
-			<code>7</code>
-			<pri>0</pri>
-			<Int sr="arg0" val="0"/>
-			<Str sr="arg1" ve="3">4024184068</Str>
-			<Str sr="arg2" ve="3"/>
-		</Event>
-	</Profile>
-	<Profile sr="prof55" ve="2">
-		<cdate>1512524074782</cdate>
-		<edate>1513259972306</edate>
-		<flags>2</flags>
-		<id>55</id>
-		<limit>true</limit>
-		<mid0>50</mid0>
-		<nme>Text From Jordan</nme>
-		<Event sr="con0" ve="2">
-			<code>7</code>
-			<pri>0</pri>
-			<Int sr="arg0" val="0"/>
-			<Str sr="arg1" ve="3">4027700242</Str>
-			<Str sr="arg2" ve="3"/>
-		</Event>
-	</Profile>
-	<Profile sr="prof56" ve="2">
-		<cdate>1512524074782</cdate>
-		<edate>1514875202800</edate>
-		<flags>2</flags>
-		<id>56</id>
-		<limit>true</limit>
-		<mid0>52</mid0>
-		<nme>Text From Caelum</nme>
-		<Event sr="con0" ve="2">
-			<code>7</code>
-			<pri>0</pri>
-			<Int sr="arg0" val="0"/>
-			<Str sr="arg1" ve="3">4023265634</Str>
-			<Str sr="arg2" ve="3"/>
-		</Event>
-	</Profile>
-	<Profile sr="prof57" ve="2">
-		<cdate>1512524339187</cdate>
-		<edate>1514875201316</edate>
-		<flags>2</flags>
-		<id>57</id>
-		<limit>true</limit>
-		<mid0>58</mid0>
-		<nme>No Text Received</nme>
-		<Time sr="con0">
-			<fh>23</fh>
-			<fm>59</fm>
-			<th>23</th>
-			<tm>59</tm>
-		</Time>
-	</Profile>
-	<Profile sr="prof59" ve="2">
-		<cdate>1512524775871</cdate>
-		<edate>1514875201129</edate>
-		<flags>2</flags>
-		<id>59</id>
-		<limit>true</limit>
-		<mid0>60</mid0>
-		<nme>Increment Streaks</nme>
-		<Time sr="con0">
-			<fh>0</fh>
-			<fm>0</fm>
-			<th>0</th>
-			<tm>0</tm>
-		</Time>
-	</Profile>
-	<Profile sr="prof61" ve="2">
-		<cdate>1513258476539</cdate>
-		<edate>1513911677587</edate>
-		<flags>2</flags>
-		<id>61</id>
-		<limit>true</limit>
-		<mid0>48</mid0>
-		<nme>Hours Remaining</nme>
-		<Time sr="con0">
-			<fh>21</fh>
-			<fm>0</fm>
-			<th>21</th>
-			<tm>0</tm>
-		</Time>
-	</Profile>
 	<Profile sr="prof7" ve="2">
 		<cdate>1461990383939</cdate>
 		<edate>1515386163924</edate>
+		<flags>2</flags>
 		<id>7</id>
 		<mid0>6</mid0>
 		<nme>Forecast Update</nme>
@@ -463,12 +297,27 @@ Notification Title: Work</com.twofortyfouram.locale.intent.extra.BLURB>
 			<tm>30</tm>
 		</Time>
 	</Profile>
+	<Profile sr="prof70" ve="2">
+		<cdate>1527025007322</cdate>
+		<edate>1527178371537</edate>
+		<flags>2</flags>
+		<id>70</id>
+		<mid0>71</mid0>
+		<nme>UNL WiFi - MANT 403</nme>
+		<State sr="con0" ve="2">
+			<code>160</code>
+			<Str sr="arg0" ve="3">UNL-AIR</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3" val="0"/>
+		</State>
+	</Profile>
 	<Project sr="proj0" ve="2">
 		<cdate>1460343609763</cdate>
-		<mdate>1514862469559</mdate>
+		<mdate>1528917173295</mdate>
 		<name>Base</name>
 		<pids>33,39</pids>
-		<tids>4,5,19,27,29,32,38,46</tids>
+		<tids>4,5,19,27,29,32,38,46,30,35,41</tids>
 		<Img sr="icon" ve="2">
 			<nme>hl_aaa_ext_home</nme>
 		</Img>
@@ -482,17 +331,17 @@ Notification Title: Work</com.twofortyfouram.locale.intent.extra.BLURB>
 	</Project>
 	<Project sr="proj2" ve="2">
 		<cdate>1514862387205</cdate>
-		<mdate>1514862431158</mdate>
+		<mdate>1526152963676</mdate>
 		<name>Forecast</name>
 		<pids>7</pids>
-		<tids>6</tids>
+		<tids>6,63</tids>
 	</Project>
 	<Project sr="proj3" ve="2">
 		<cdate>1476213363861</cdate>
-		<mdate>1502583371739</mdate>
-		<name>Parking Reminder</name>
+		<mdate>1526190231928</mdate>
+		<name>Parking Reminder + BT Connect &amp; Play</name>
 		<pids>23,25,40,45</pids>
-		<tids>28,24,26,36,44</tids>
+		<tids>28,24,26,36,44,68</tids>
 	</Project>
 	<Project sr="proj4" ve="2">
 		<cdate>1475528858518</cdate>
@@ -502,34 +351,27 @@ Notification Title: Work</com.twofortyfouram.locale.intent.extra.BLURB>
 	</Project>
 	<Project sr="proj5" ve="2">
 		<cdate>1475528888120</cdate>
-		<mdate>1475529070979</mdate>
+		<mdate>1526231590614</mdate>
 		<name>"Auto" Brightness</name>
 		<pids>13,15,16</pids>
 		<tids>10,9,12</tids>
 	</Project>
 	<Project sr="proj6" ve="2">
-		<cdate>1499485857494</cdate>
-		<mdate>1501639605955</mdate>
-		<name>Snap Streak</name>
-		<pids>43,30,34,37</pids>
-		<tids>41,42,31,35</tids>
-	</Project>
-	<Project sr="proj7" ve="2">
-		<cdate>1512522332486</cdate>
-		<mdate>1513269577624</mdate>
-		<name>Text Streak</name>
-		<pids>59,57,61,53,54,55,56</pids>
-		<tids>49,50,51,52,58,60,48,62,47,64,65,66,67</tids>
+		<cdate>1527024911595</cdate>
+		<mdate>1527025042318</mdate>
+		<name>Auto DND</name>
+		<pids>70</pids>
+		<tids>71</tids>
 	</Project>
 	<Task sr="task10">
 		<cdate>1466313202397</cdate>
-		<edate>1475528947992</edate>
+		<edate>1527453578493</edate>
 		<id>10</id>
 		<nme>Brighten Screen</nme>
-		<pri>100</pri>
+		<pri>6</pri>
 		<Action sr="act0" ve="7">
 			<code>810</code>
-			<Int sr="arg0" val="110"/>
+			<Int sr="arg0" val="100"/>
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
@@ -537,7 +379,7 @@ Notification Title: Work</com.twofortyfouram.locale.intent.extra.BLURB>
 	</Task>
 	<Task sr="task11">
 		<cdate>1465872246414</cdate>
-		<edate>1490584031513</edate>
+		<edate>1525928790685</edate>
 		<id>11</id>
 		<nme>Password Lock</nme>
 		<pri>100</pri>
@@ -605,20 +447,19 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 			<Int sr="arg3" val="100"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<cls>com.reneph.passwordsafe.login.Login_Activity</cls>
-			<pkg>com.reneph.passwordsafe</pkg>
+			<nme>mw_action_lock_outline</nme>
 		</Img>
 	</Task>
 	<Task sr="task12">
 		<cdate>1475528915669</cdate>
-		<edate>1491369964061</edate>
+		<edate>1525928047451</edate>
 		<id>12</id>
 		<nme>Lowest Brightness</nme>
 		<pri>6</pri>
 		<Action sr="act0" ve="7">
 			<code>810</code>
 			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="0"/>
+			<Int sr="arg1" val="1"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 		</Action>
@@ -966,7 +807,7 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 	</Task>
 	<Task sr="task2">
 		<cdate>1460343632445</cdate>
-		<edate>1476206785723</edate>
+		<edate>1525928830035</edate>
 		<id>2</id>
 		<nme>Wallpaper Switcher</nme>
 		<pri>100</pri>
@@ -1003,19 +844,18 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 			<Int sr="arg3" val="0"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<cls>com.android.settings.Settings$DisplaySettingsActivity</cls>
-			<pkg>com.android.settings</pkg>
+			<nme>mw_device_wallpaper</nme>
 		</Img>
 	</Task>
 	<Task sr="task20">
 		<cdate>1476149655967</cdate>
-		<edate>1491372561191</edate>
+		<edate>1526154512628</edate>
 		<id>20</id>
 		<nme>Initialize Wallpapers</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>412</code>
-			<Str sr="arg0" ve="3">/storage/4DCE-77CE/Wallpapers</Str>
+			<Str sr="arg0" ve="3">Pictures/Wallpapers</Str>
 			<Str sr="arg1" ve="3"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
@@ -1063,7 +903,7 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 	</Task>
 	<Task sr="task21">
 		<cdate>1476149878591</cdate>
-		<edate>1504977139248</edate>
+		<edate>1528917863934</edate>
 		<id>21</id>
 		<nme>Wallpaper Switcher 2.0</nme>
 		<pri>100</pri>
@@ -1105,7 +945,7 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 		<Action sr="act5" ve="7">
 			<code>109</code>
 			<Int sr="arg0" val="0"/>
-			<Str sr="arg1" ve="3">/storage/4DCE-77CE/Wallpapers/wallpapers_%final_num.jpg</Str>
+			<Str sr="arg1" ve="3">Pictures/Wallpapers/wallpapers_%final_num.jpg</Str>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 		</Action>
@@ -1123,13 +963,12 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 			<Int sr="arg3" val="0"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<cls>com.android.settings.Settings$HtcTransferMyStuffSettingsActivity</cls>
-			<pkg>com.android.settings</pkg>
+			<nme>mw_device_wallpaper</nme>
 		</Img>
 	</Task>
 	<Task sr="task24">
 		<cdate>1476213454651</cdate>
-		<edate>1491244841755</edate>
+		<edate>1528692727299</edate>
 		<id>24</id>
 		<nme>Parking Profile On</nme>
 		<pri>100</pri>
@@ -1138,12 +977,24 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 			<Str sr="arg0" ve="3">Exit Car At Home</Str>
 			<Int sr="arg1" val="1"/>
 		</Action>
+		<Action sr="act1" ve="7">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Play Music</Str>
+			<Int sr="arg1">
+				<var>%priority</var>
+			</Int>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="0"/>
+		</Action>
 	</Task>
 	<Task sr="task26">
 		<cdate>1477756738339</cdate>
-		<edate>1491244845584</edate>
+		<edate>1528691829543</edate>
 		<id>26</id>
 		<nme>Parking Profile Off</nme>
+		<pri>100</pri>
 		<Action sr="act0" ve="7">
 			<code>30</code>
 			<Int sr="arg0" val="0"/>
@@ -1177,14 +1028,18 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 	</Task>
 	<Task sr="task28">
 		<cdate>1476193916638</cdate>
-		<edate>1502687418679</edate>
+		<edate>1528690792810</edate>
 		<id>28</id>
 		<nme>Parking Snackbar</nme>
-		<pri>7</pri>
+		<pri>8</pri>
 		<Action sr="act0" ve="7">
 			<code>918009384</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
+					<com.nick.mowen.sceneplugin.extra.INT_DEFAULT_SPINNER>1</com.nick.mowen.sceneplugin.extra.INT_DEFAULT_SPINNER>
+					<com.nick.mowen.sceneplugin.extra.INT_DEFAULT_SPINNER-type>java.lang.Integer</com.nick.mowen.sceneplugin.extra.INT_DEFAULT_SPINNER-type>
+					<com.nick.mowen.snackbar.extra.BOOLEAN_REVERSE>false</com.nick.mowen.snackbar.extra.BOOLEAN_REVERSE>
+					<com.nick.mowen.snackbar.extra.BOOLEAN_REVERSE-type>java.lang.Boolean</com.nick.mowen.snackbar.extra.BOOLEAN_REVERSE-type>
 					<com.twofortyfouram.locale.intent.extra.BLURB>Title: 🅿 What floor did you park on?
 Items: Fourth,Third,Second,First
 Commands: 4,3,2,1</com.twofortyfouram.locale.intent.extra.BLURB>
@@ -1221,7 +1076,7 @@ Commands: 4,3,2,1</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.yourcompany.yourapp.extra.STRING_COMMAND-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_COMMAND-type>
 					<com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR>Not Set</com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR>
 					<com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR-type>
-					<com.yourcompany.yourapp.extra.STRING_EDIT_HINT>Not Set</com.yourcompany.yourapp.extra.STRING_EDIT_HINT>
+					<com.yourcompany.yourapp.extra.STRING_EDIT_HINT>null</com.yourcompany.yourapp.extra.STRING_EDIT_HINT>
 					<com.yourcompany.yourapp.extra.STRING_EDIT_HINT-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_EDIT_HINT-type>
 					<com.yourcompany.yourapp.extra.STRING_FAB_COLOR></com.yourcompany.yourapp.extra.STRING_FAB_COLOR>
 					<com.yourcompany.yourapp.extra.STRING_FAB_COLOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_FAB_COLOR-type>
@@ -1247,11 +1102,11 @@ Commands: 4,3,2,1</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.yourcompany.yourapp.extra.STRING_SEPARATOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_SEPARATOR-type>
 					<com.yourcompany.yourapp.extra.STRING_SPINNER_ITEMS>Not Set</com.yourcompany.yourapp.extra.STRING_SPINNER_ITEMS>
 					<com.yourcompany.yourapp.extra.STRING_SPINNER_ITEMS-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_SPINNER_ITEMS-type>
-					<com.yourcompany.yourapp.extra.STRING_TITLE_COLOR>Not Set</com.yourcompany.yourapp.extra.STRING_TITLE_COLOR>
+					<com.yourcompany.yourapp.extra.STRING_TITLE_COLOR>#000000</com.yourcompany.yourapp.extra.STRING_TITLE_COLOR>
 					<com.yourcompany.yourapp.extra.STRING_TITLE_COLOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_TITLE_COLOR-type>
 					<com.yourcompany.yourapp.extra.STRING_TYPE>modalSheet</com.yourcompany.yourapp.extra.STRING_TYPE>
 					<com.yourcompany.yourapp.extra.STRING_TYPE-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_TYPE-type>
-					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE>161</com.yourcompany.yourcondition.extra.INT_VERSION_CODE>
+					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE>192</com.yourcompany.yourcondition.extra.INT_VERSION_CODE>
 					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>java.lang.Integer</com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>
 					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%bs_command
 Sheet item pressed: Command is returned
@@ -1259,7 +1114,7 @@ Sheet item pressed: Command is returned
 Sheet is dismissed: "Dismissed" returned
 &lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
 					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.yourcompany.yourapp.extra.STRING_MESSAGE com.yourcompany.yourapp.extra.STRING_BUTTON com.yourcompany.yourapp.extra.STRING_COLOR com.yourcompany.yourapp.extra.STRING_COMMAND com.yourcompany.yourapp.extra.STRING_BCOLOR com.yourcompany.yourapp.extra.STRING_LENGTH com.yourcompany.yourapp.extra.STRING_FAB_COMMAND com.yourcompany.yourapp.extra.STRING_FAB_ICON com.yourcompany.yourapp.extra.STRING_FAB_COLOR com.yourcompany.yourapp.extra.STRING_EDIT_HINT com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR com.yourcompany.yourapp.extra.STRING_LONGCOMMAND com.yourcompany.yourapp.extra.STRING_FIELD_COLOR com.yourcompany.yourapp.extra.STRING_FIELD_TEXT com.yourcompany.yourapp.extra.STRING_TITLE_COLOR com.yourcompany.yourapp.extra.STRING_IME_COMMAND</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.yourcompany.yourapp.extra.STRING_MESSAGE com.yourcompany.yourapp.extra.STRING_BUTTON com.yourcompany.yourapp.extra.STRING_COLOR com.yourcompany.yourapp.extra.STRING_COMMAND com.yourcompany.yourapp.extra.STRING_BCOLOR com.yourcompany.yourapp.extra.STRING_LENGTH com.yourcompany.yourapp.extra.STRING_FAB_COMMAND com.yourcompany.yourapp.extra.STRING_FAB_ICON com.yourcompany.yourapp.extra.STRING_FAB_COLOR com.yourcompany.yourapp.extra.STRING_EDIT_HINT com.yourcompany.yourapp.extra.STRING_DIVIDER_COLOR com.yourcompany.yourapp.extra.STRING_LONGCOMMAND com.yourcompany.yourapp.extra.STRING_FIELD_COLOR com.yourcompany.yourapp.extra.STRING_NAVIGATION_COLOR com.yourcompany.yourapp.extra.STRING_FIELD_TEXT com.yourcompany.yourapp.extra.STRING_TITLE_COLOR com.yourcompany.yourapp.extra.STRING_IME_COMMAND</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
@@ -1372,7 +1227,7 @@ Sheet is dismissed: "Dismissed" returned
 			<code>38</code>
 		</Action>
 		<Img sr="icn" ve="2">
-			<nme>hl_aaa_ext_car</nme>
+			<nme>mw_maps_directions_car</nme>
 		</Img>
 	</Task>
 	<Task sr="task29">
@@ -1435,20 +1290,49 @@ Any extra data is returned here (dialog button, back pressed, etc)
 			<Int sr="arg3" val="100"/>
 		</Action>
 	</Task>
-	<Task sr="task31">
-		<cdate>1499694143945</cdate>
-		<edate>1499913287059</edate>
-		<id>31</id>
-		<nme>Daily Dialog On</nme>
+	<Task sr="task30">
+		<cdate>1527743721360</cdate>
+		<edate>1528639327691</edate>
+		<id>30</id>
+		<nme>Screen Off</nme>
+		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Daily Dialog</Str>
-			<Int sr="arg1" val="1"/>
+			<code>1250249549</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Screen Off Or On: Turn Off</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.JSON_ENCODED_KEYS>parameters</net.dinglisch.android.tasker.JSON_ENCODED_KEYS>
+					<net.dinglisch.android.tasker.JSON_ENCODED_KEYS-type>java.lang.String</net.dinglisch.android.tasker.JSON_ENCODED_KEYS-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>parameters plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<parameters>{"screenAction":"0","generatedValues":{}}</parameters>
+					<parameters-type>java.lang.String</parameters-type>
+					<plugininstanceid>9d3b91f7-a5e8-48a6-8620-28d578dd60ae</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentTurnOffScreen</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigTurnOffScreen</Str>
+			<Int sr="arg3" val="60"/>
 		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_hardware_smartphone</nme>
+		</Img>
 	</Task>
 	<Task sr="task32">
 		<cdate>1445383542313</cdate>
-		<edate>1517155929373</edate>
+		<edate>1526155136515</edate>
 		<id>32</id>
 		<nme>Display Timeout 1 Sec</nme>
 		<pri>100</pri>
@@ -1538,216 +1422,210 @@ Any extra data is returned here (dialog button, back pressed, etc)
 			<Int sr="arg2" val="0"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<nme>hl_hardware_dock</nme>
+			<nme>mw_action_visibility_off</nme>
 		</Img>
 	</Task>
 	<Task sr="task35">
-		<cdate>1501639372583</cdate>
-		<edate>1503582184391</edate>
+		<cdate>1528866126874</cdate>
+		<edate>1528867809633</edate>
 		<id>35</id>
-		<nme>Random Message</nme>
-		<pri>100</pri>
+		<nme>Swap Launcher</nme>
+		<pri>7</pri>
 		<Action sr="act0" ve="7">
-			<code>545</code>
-			<Str sr="arg0" ve="3">%rand</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="13"/>
+			<code>1563799945</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.intangibleobject.securesettings.plugin.extra.BLURB>Settings - [Default apps] .Settings$AdvancedAppsActivity</com.intangibleobject.securesettings.plugin.extra.BLURB>
+					<com.intangibleobject.securesettings.plugin.extra.BLURB-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.BLURB-type>
+					<com.intangibleobject.securesettings.plugin.extra.EXTRA_SPINNER_OPTION>com.android.settings.Settings$AdvancedAppsActivity</com.intangibleobject.securesettings.plugin.extra.EXTRA_SPINNER_OPTION>
+					<com.intangibleobject.securesettings.plugin.extra.EXTRA_SPINNER_OPTION-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.EXTRA_SPINNER_OPTION-type>
+					<com.intangibleobject.securesettings.plugin.extra.PACKAGE_NAME>com.android.settings</com.intangibleobject.securesettings.plugin.extra.PACKAGE_NAME>
+					<com.intangibleobject.securesettings.plugin.extra.PACKAGE_NAME-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.PACKAGE_NAME-type>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING>launch_activity</com.intangibleobject.securesettings.plugin.extra.SETTING>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.SETTING-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Settings - [Default apps] .Settings$AdvancedAppsActivity</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.intangibleobject.securesettings.plugin</Str>
+			<Str sr="arg2" ve="3">com.intangibleobject.securesettings.plugin.Activities.TabsActivity</Str>
+			<Int sr="arg3" val="0"/>
 		</Action>
 		<Action sr="act1" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">STREAK!!</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act10" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">That is a tasty burger 🍔</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>10</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act11" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Send nudes</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>11</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act12" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Retarded means slow. Was he slow?</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>12</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act13" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Pineapples too spicy</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>13</rhs>
-				</Condition>
-			</ConditionList>
+			<code>1732635924</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>Home app</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<FieldSelectionType>0</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsFirstAction>false</IsFirstAction>
+					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<TextToWrite>&lt;null&gt;</TextToWrite>
+					<TextToWrite-type>java.lang.String</TextToWrite-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Text
+Value: Home app
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>795dd1d2-3e84-47f4-a715-86b20703336d</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+			<Int sr="arg3" val="20"/>
 		</Action>
 		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Ilysm</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
+			<code>37</code>
 			<ConditionList sr="if">
 				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
+					<lhs>%currLauncher</lhs>
 					<op>2</op>
-					<rhs>2</rhs>
+					<rhs>Nova</rhs>
 				</Condition>
 			</ConditionList>
 		</Action>
 		<Action sr="act3" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Bike ride today?</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>3</rhs>
-				</Condition>
-			</ConditionList>
+			<code>1732635924</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>Microsoft Launcher</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<FieldSelectionType>0</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsFirstAction>false</IsFirstAction>
+					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<TextToWrite>&lt;null&gt;</TextToWrite>
+					<TextToWrite-type>java.lang.String</TextToWrite-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Text
+Value: Microsoft Launcher
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>795dd1d2-3e84-47f4-a715-86b20703336d</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+			<Int sr="arg3" val="20"/>
 		</Action>
 		<Action sr="act4" ve="7">
 			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">I miss you</Str>
+			<Str sr="arg0" ve="3">%currLauncher</Str>
+			<Str sr="arg1" ve="3">MS</Str>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>4</rhs>
-				</Condition>
-			</ConditionList>
 		</Action>
 		<Action sr="act5" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Bae 😍</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>5</rhs>
-				</Condition>
-			</ConditionList>
+			<code>43</code>
 		</Action>
 		<Action sr="act6" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Nyeeeaaah Squidward</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>6</rhs>
-				</Condition>
-			</ConditionList>
+			<code>1732635924</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>Nova Launcher</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<FieldSelectionType>0</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsFirstAction>false</IsFirstAction>
+					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<TextToWrite>&lt;null&gt;</TextToWrite>
+					<TextToWrite-type>java.lang.String</TextToWrite-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Text
+Value: Nova Launcher
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>795dd1d2-3e84-47f4-a715-86b20703336d</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+			<Int sr="arg3" val="20"/>
 		</Action>
 		<Action sr="act7" ve="7">
 			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Stay woke</Str>
+			<Str sr="arg0" ve="3">%currLauncher</Str>
+			<Str sr="arg1" ve="3">Nova</Str>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>7</rhs>
-				</Condition>
-			</ConditionList>
 		</Action>
 		<Action sr="act8" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">It's NOT a mouth-based video game</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>8</rhs>
-				</Condition>
-			</ConditionList>
+			<code>38</code>
 		</Action>
-		<Action sr="act9" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Message</Str>
-			<Str sr="arg1" ve="3">Spill it, skillet</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%rand</lhs>
-					<op>2</op>
-					<rhs>9</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_action_home</nme>
+		</Img>
 	</Task>
 	<Task sr="task36">
 		<cdate>1500868326014</cdate>
@@ -1871,100 +1749,54 @@ Any extra data is returned here (dialog button, back pressed, etc)
 	</Task>
 	<Task sr="task4">
 		<cdate>1460479715297</cdate>
-		<edate>1504667728071</edate>
+		<edate>1526158398095</edate>
 		<id>4</id>
 		<nme>Lock Screen</nme>
-		<pri>100</pri>
+		<pri>7</pri>
 		<Action sr="act0" ve="7">
 			<code>16</code>
 		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_action_lock_outline</nme>
+		</Img>
 	</Task>
 	<Task sr="task41">
-		<cdate>1499486751685</cdate>
-		<edate>1501639552246</edate>
+		<cdate>1528916961605</cdate>
+		<edate>1528994730533</edate>
 		<id>41</id>
-		<nme>Snap Jordan</nme>
+		<nme>Script</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%message</Str>
-			<Str sr="arg1" ve="3">%Message</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
+			<code>545</code>
+			<Str sr="arg0" ve="3">%wait</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="10"/>
 		</Action>
 		<Action sr="act1" ve="7">
-			<code>20</code>
-			<App sr="arg0">
-				<appClass>com.snapchat.android.LandingPageActivity</appClass>
-				<appPkg>com.snapchat.android</appPkg>
-				<label>Snapchat</label>
-			</App>
-			<Str sr="arg1" ve="3"/>
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1">
+				<var>%wait</var>
+			</Int>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
 		</Action>
 		<Action sr="act10" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>720,2300</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>16</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>&lt;null&gt;</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 720,2300
-Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>72e0cde9-0c12-477c-a48b-51d123734c87</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
+			<code>545</code>
+			<Str sr="arg0" ve="3">%item</Str>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="5"/>
 		</Action>
 		<Action sr="act11" ve="7">
-			<code>30</code>
-			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act12" ve="7">
 			<code>1732635924</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<ActionId>720,300</ActionId>
+					<ActionId>%item</ActionId>
 					<ActionId-type>java.lang.String</ActionId-type>
 					<ActionType>16</ActionType>
 					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
+					<FieldSelectionType>3</FieldSelectionType>
 					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
 					<IsFirstAction>false</IsFirstAction>
 					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
@@ -1972,12 +1804,14 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
 					<NearbyText>&lt;null&gt;</NearbyText>
 					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
 					<StoredAction>&lt;null&gt;</StoredAction>
 					<StoredAction-type>java.lang.String</StoredAction-type>
 					<TextToWrite>&lt;null&gt;</TextToWrite>
 					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 720,300
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: List
+Value: %item
 Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
@@ -1990,7 +1824,7 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>3fdbbefd-9e32-48f7-a33d-1e9142f663a5</plugininstanceid>
+					<plugininstanceid>b8112a5e-6543-4251-8806-3973cdd9e0cf</plugininstanceid>
 					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
 					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
 					<plugintypeid-type>java.lang.String</plugintypeid-type>
@@ -1999,165 +1833,33 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
 			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
 			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act13" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>&lt;null&gt;</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>-1</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>2</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>%message</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Focus
-Text to Write : %message
-Action : Write</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>TextToWrite FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>7d100b8c-34e1-41c8-8312-5ea3ea4cc894</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act14" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>720,300</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>16</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>&lt;null&gt;</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 720,300
-Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>9302c6aa-e127-48a8-a211-07d55391651a</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act15" ve="7">
-			<code>30</code>
-			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act16" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>1300,2425</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>16</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>&lt;null&gt;</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 1300,2425
-Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>0b259d85-43ea-4b7a-8747-a0177458920c</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act17" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Daily Snap</Str>
-			<Int sr="arg1" val="0"/>
 		</Action>
 		<Action sr="act2" ve="7">
-			<code>30</code>
+			<code>25</code>
 			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
 		</Action>
 		<Action sr="act3" ve="7">
+			<code>888</code>
+			<Str sr="arg0" ve="3">%Line</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="14"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>415</code>
+			<Str sr="arg0" ve="3">Tasker/words.txt</Str>
+			<Str sr="arg1" ve="3">%Line</Str>
+			<Str sr="arg2" ve="3">%word</Str>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>105</code>
+			<Str sr="arg0" ve="3">%word</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
 			<code>1732635924</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<ActionId>com.snapchat.android:id/neon_header_search_bar</ActionId>
+					<ActionId>com.microsoft.launcher:id/local_search_bar</ActionId>
 					<ActionId-type>java.lang.String</ActionId-type>
 					<ActionType>16</ActionType>
 					<ActionType-type>java.lang.String</ActionType-type>
@@ -2169,12 +1871,14 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
 					<NearbyText>&lt;null&gt;</NearbyText>
 					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
 					<StoredAction>&lt;null&gt;</StoredAction>
 					<StoredAction-type>java.lang.String</StoredAction-type>
 					<TextToWrite>&lt;null&gt;</TextToWrite>
 					<TextToWrite-type>java.lang.String</TextToWrite-type>
 					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Id
-Value: com.snapchat.android:id/neon_header_search_bar
+Value: com.microsoft.launcher:id/local_search_bar
 Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
@@ -2187,103 +1891,7 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>a6cf6e9a-b17d-440a-a1f0-a006449ec9f6</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>&lt;null&gt;</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>-1</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>2</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>Jordan Pond</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Focus
-Text to Write : Jordan Pond
-Action : Write</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>TextToWrite FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>25373ed6-ef74-4fec-905d-d23fe59370a8</plugininstanceid>
-					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
-					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
-					<plugintypeid-type>java.lang.String</plugintypeid-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
-			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
-			<Int sr="arg3" val="20"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>30</code>
-			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>1732635924</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<ActionId>720,560</ActionId>
-					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>32</ActionType>
-					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
-					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
-					<IsFirstAction>false</IsFirstAction>
-					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
-					<IsTaskerAction>false</IsTaskerAction>
-					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
-					<NearbyText>&lt;null&gt;</NearbyText>
-					<NearbyText-type>java.lang.String</NearbyText-type>
-					<StoredAction>&lt;null&gt;</StoredAction>
-					<StoredAction-type>java.lang.String</StoredAction-type>
-					<TextToWrite>&lt;null&gt;</TextToWrite>
-					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 720,560
-Action : Long Click</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
-Error Code
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
-Error Message
-Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>e8bb5a00-1495-4df0-a7c1-8a8c06751cd9</plugininstanceid>
+					<plugininstanceid>e06d2937-23f0-4265-b838-5f390686dc86</plugininstanceid>
 					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
 					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
 					<plugintypeid-type>java.lang.String</plugintypeid-type>
@@ -2294,22 +1902,14 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 			<Int sr="arg3" val="20"/>
 		</Action>
 		<Action sr="act7" ve="7">
-			<code>30</code>
-			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act8" ve="7">
 			<code>1732635924</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<ActionId>720,1780</ActionId>
+					<ActionId>com.microsoft.launcher:id/search_text_field</ActionId>
 					<ActionId-type>java.lang.String</ActionId-type>
-					<ActionType>16</ActionType>
+					<ActionType>32768</ActionType>
 					<ActionType-type>java.lang.String</ActionType-type>
-					<FieldSelectionType>5</FieldSelectionType>
+					<FieldSelectionType>1</FieldSelectionType>
 					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
 					<IsFirstAction>false</IsFirstAction>
 					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
@@ -2317,13 +1917,15 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
 					<NearbyText>&lt;null&gt;</NearbyText>
 					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
 					<StoredAction>&lt;null&gt;</StoredAction>
 					<StoredAction-type>java.lang.String</StoredAction-type>
 					<TextToWrite>&lt;null&gt;</TextToWrite>
 					<TextToWrite-type>java.lang.String</TextToWrite-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Point
-Value: 720,1780
-Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Id
+Value: com.microsoft.launcher:id/search_text_field
+Action : Paste</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
 Error Code
@@ -2335,7 +1937,7 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>4c0a67e8-b22f-4e84-8b1f-e8e44ba74875</plugininstanceid>
+					<plugininstanceid>d668a309-cff6-4e22-8825-9ba770a1b6ee</plugininstanceid>
 					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
 					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
 					<plugintypeid-type>java.lang.String</plugintypeid-type>
@@ -2345,107 +1947,21 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
 			<Int sr="arg3" val="20"/>
 		</Action>
+		<Action sr="act8" ve="7">
+			<code>545</code>
+			<Str sr="arg0" ve="3">%wait</Str>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="10"/>
+		</Action>
 		<Action sr="act9" ve="7">
 			<code>30</code>
 			<Int sr="arg0" val="0"/>
-			<Int sr="arg1" val="1"/>
+			<Int sr="arg1">
+				<var>%wait</var>
+			</Int>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 			<Int sr="arg4" val="0"/>
-		</Action>
-		<Img sr="icn" ve="2">
-			<cls>com.snapchat.android.LandingPageActivity</cls>
-			<pkg>com.snapchat.android</pkg>
-		</Img>
-	</Task>
-	<Task sr="task42">
-		<cdate>1499691971119</cdate>
-		<edate>1499913272043</edate>
-		<id>42</id>
-		<nme>Snap Dialog</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>1703324132</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>A custom curated sheet will be shown</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<com.yourcompany.yourapp.extra.STRING_BCOLOR>#ffffff</com.yourcompany.yourapp.extra.STRING_BCOLOR>
-					<com.yourcompany.yourapp.extra.STRING_BCOLOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_BCOLOR-type>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM>%</com.yourcompany.yourapp.extra.STRING_BOTTOM>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_BOTTOM-type>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM_COMMAND>#2196F3</com.yourcompany.yourapp.extra.STRING_BOTTOM_COMMAND>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM_COMMAND-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_BOTTOM_COMMAND-type>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM_ICON>#2196F3</com.yourcompany.yourapp.extra.STRING_BOTTOM_ICON>
-					<com.yourcompany.yourapp.extra.STRING_BOTTOM_ICON-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_BOTTOM_ICON-type>
-					<com.yourcompany.yourapp.extra.STRING_MESSAGE></com.yourcompany.yourapp.extra.STRING_MESSAGE>
-					<com.yourcompany.yourapp.extra.STRING_MESSAGE-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_MESSAGE-type>
-					<com.yourcompany.yourapp.extra.STRING_PARCELABLE_DATA>0;Snapchat Jordan?;com.snapchat.android;;;false;false;0;0;-16777216;#000000%</com.yourcompany.yourapp.extra.STRING_PARCELABLE_DATA>
-					<com.yourcompany.yourapp.extra.STRING_PARCELABLE_DATA-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_PARCELABLE_DATA-type>
-					<com.yourcompany.yourapp.extra.STRING_SEPARATOR>;</com.yourcompany.yourapp.extra.STRING_SEPARATOR>
-					<com.yourcompany.yourapp.extra.STRING_SEPARATOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_SEPARATOR-type>
-					<com.yourcompany.yourapp.extra.STRING_TCOLOR>No</com.yourcompany.yourapp.extra.STRING_TCOLOR>
-					<com.yourcompany.yourapp.extra.STRING_TCOLOR-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_TCOLOR-type>
-					<com.yourcompany.yourapp.extra.STRING_TICON>Yes</com.yourcompany.yourapp.extra.STRING_TICON>
-					<com.yourcompany.yourapp.extra.STRING_TICON-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_TICON-type>
-					<com.yourcompany.yourapp.extra.STRING_TYPE>customDialog</com.yourcompany.yourapp.extra.STRING_TYPE>
-					<com.yourcompany.yourapp.extra.STRING_TYPE-type>java.lang.String</com.yourcompany.yourapp.extra.STRING_TYPE-type>
-					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE>117</com.yourcompany.yourcondition.extra.INT_VERSION_CODE>
-					<com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>java.lang.Integer</com.yourcompany.yourcondition.extra.INT_VERSION_CODE-type>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%cd_command()
-An array of items is returned
-The item depends on the type, text returns name, switch returns checked status, Progress returns the amount, and spinner returns selected item
-&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%cd_extra
-Any extra data is returned here (dialog button, back pressed, etc)
-&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
-					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.yourcompany.yourapp.extra.STRING_MESSAGE com.yourcompany.yourapp.extra.STRING_COLOR com.yourcompany.yourapp.extra.STRING_COMMAND com.yourcompany.yourapp.extra.STRING_BCOLOR com.yourcompany.yourapp.extra.STRING_LENGTH com.yourcompany.yourapp.extra.STRING_PARCELABLE_DATA</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">com.nick.mowen.materialdesignplugin</Str>
-			<Str sr="arg2" ve="3">com.nick.mowen.materialdesign.ui.CustomDialogEditActivity</Str>
-			<Int sr="arg3" val="100"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>37</code>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%cd_extra</lhs>
-					<op>2</op>
-					<rhs>Positive Button</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Daily Snap</Str>
-			<Int sr="arg1" val="1"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>43</code>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%cd_extra</lhs>
-					<op>2</op>
-					<rhs>Negative Button</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Daily Snap</Str>
-			<Int sr="arg1" val="0"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>38</code>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Daily Dialog</Str>
-			<Int sr="arg1" val="0"/>
 		</Action>
 	</Task>
 	<Task sr="task44">
@@ -2474,378 +1990,12 @@ Any extra data is returned here (dialog button, back pressed, etc)
 			<uri>content://com.android.externalstorage.documents/document/primary%3APictures%2FScreenshots%2FScreenshot_20171012-200557.png</uri>
 		</Img>
 	</Task>
-	<Task sr="task47">
-		<cdate>1513265520878</cdate>
-		<edate>1513266761820</edate>
-		<id>47</id>
-		<nme>Print Streaks</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TCount1# = %Streaks(4)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Streaks(4)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Count1</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TCount2# = %Streaks(3)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Streaks(3)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Count2</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act10" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TFile3# = %PicFiles(2)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%PicFiles(2)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>File3</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act11" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TFile4# = %PicFiles(1)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%PicFiles(1)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>File4</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TCount3# = %Streaks(2)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Streaks(2)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Count3</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TCount4# = %Streaks(1)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Streaks(1)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Count4</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TName1# = %Names(4)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Names(4)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Name1</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TName2# = %Names(3)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Names(3)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Name2</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TName3# = %Names(2)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Names(2)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Name3</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act7" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TName4# = %Names(1)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%Names(1)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>Name4</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act8" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TFile1# = %PicFiles(4)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%PicFiles(4)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>File1</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-		<Action sr="act9" ve="7">
-			<code>1000294689</code>
-			<Bundle sr="arg0">
-				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>#TFile2# = %PicFiles(3)</com.twofortyfouram.locale.intent.extra.BLURB>
-					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.zooper.zw.tasker.var.extra.STRING_TEXT</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
-					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
-					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
-					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>1</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE>
-					<org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>java.lang.Integer</org.zooper.zw.tasker.var.extra.INT_VERSION_CODE-type>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT>%PicFiles(3)</org.zooper.zw.tasker.var.extra.STRING_TEXT>
-					<org.zooper.zw.tasker.var.extra.STRING_TEXT-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_TEXT-type>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR>File2</org.zooper.zw.tasker.var.extra.STRING_VAR>
-					<org.zooper.zw.tasker.var.extra.STRING_VAR-type>java.lang.String</org.zooper.zw.tasker.var.extra.STRING_VAR-type>
-				</Vals>
-			</Bundle>
-			<Str sr="arg1" ve="3">org.zooper.zwpro</Str>
-			<Str sr="arg2" ve="3">org.zooper.zwlib.tasker.var.EditActivity</Str>
-			<Int sr="arg3" val="0"/>
-		</Action>
-	</Task>
-	<Task sr="task48">
-		<cdate>1513258077371</cdate>
-		<edate>1513266780625</edate>
-		<id>48</id>
-		<nme>Send Reminder</nme>
-		<Action sr="act0" ve="7">
-			<code>41</code>
-			<Str sr="arg0" ve="3">4028533538</Str>
-			<Str sr="arg1" ve="3">⏳</Str>
-			<Int sr="arg2" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagKW</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>41</code>
-			<Str sr="arg0" ve="3">4027700242</Str>
-			<Str sr="arg1" ve="3">⏳</Str>
-			<Int sr="arg2" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagJP</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>41</code>
-			<Str sr="arg0" ve="3">4024184068</Str>
-			<Str sr="arg1" ve="3">⏳</Str>
-			<Int sr="arg2" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagZK</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>41</code>
-			<Str sr="arg0" ve="3">4023265634</Str>
-			<Str sr="arg1" ve="3">⏳</Str>
-			<Int sr="arg2" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagCH</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-	</Task>
-	<Task sr="task49">
-		<cdate>1512522704727</cdate>
-		<edate>1513266785806</edate>
-		<id>49</id>
-		<nme>Count Katie</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%KatieCount</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Katie</Str>
-			<Int sr="arg1" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagKW</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Sort Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
-	</Task>
 	<Task sr="task5">
 		<cdate>1461417606282</cdate>
-		<edate>1522518200152</edate>
+		<edate>1528726241102</edate>
 		<id>5</id>
 		<nme>Shave</nme>
-		<pri>100</pri>
+		<pri>7</pri>
 		<Action sr="act0" ve="7">
 			<code>888</code>
 			<Str sr="arg0" ve="3">%SHAVE</Str>
@@ -2875,203 +2025,15 @@ Any extra data is returned here (dialog button, back pressed, etc)
 			<Int sr="arg3" val="0"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<nme>hl_ab_content_cut</nme>
+			<nme>mw_content_content_cut</nme>
 		</Img>
-	</Task>
-	<Task sr="task50">
-		<cdate>1512522726657</cdate>
-		<edate>1513268904754</edate>
-		<id>50</id>
-		<nme>Count Jordan</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%JordanCount</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Jordan</Str>
-			<Int sr="arg1" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagJP</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Sort Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
-	</Task>
-	<Task sr="task51">
-		<cdate>1512522751603</cdate>
-		<edate>1513265900688</edate>
-		<id>51</id>
-		<nme>Count Zak</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%ZakCount</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Zak</Str>
-			<Int sr="arg1" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagZK</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Sort Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
-	</Task>
-	<Task sr="task52">
-		<cdate>1512522788458</cdate>
-		<edate>1513265939323</edate>
-		<id>52</id>
-		<nme>Count Caelum</nme>
-		<pri>100</pri>
-		<Action sr="act0" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%CaelumCount</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Caelum</Str>
-			<Int sr="arg1" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagCH</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Sort Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
-	</Task>
-	<Task sr="task58">
-		<cdate>1512524352674</cdate>
-		<edate>1513751080598</edate>
-		<id>58</id>
-		<nme>Reset Streaks</nme>
-		<Action sr="act0" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%KatieCount</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagKW</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%JordanCount</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagJP</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%ZakCount</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagZK</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%CaelumCount</Str>
-			<Str sr="arg1" ve="3">0</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%flagCH</lhs>
-					<op>2</op>
-					<rhs>1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Sort Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
 	</Task>
 	<Task sr="task6">
 		<cdate>1461988738887</cdate>
 		<edate>1515386145132</edate>
 		<id>6</id>
 		<nme>Forecast</nme>
-		<pri>100</pri>
+		<pri>6</pri>
 		<Action sr="act0" ve="7">
 			<code>118</code>
 			<Str sr="arg0" ve="3">api.wunderground.com</Str>
@@ -3177,340 +2139,100 @@ Any extra data is returned here (dialog button, back pressed, etc)
 			<Int sr="arg3" val="0"/>
 		</Action>
 	</Task>
-	<Task sr="task60">
-		<cdate>1512524821877</cdate>
-		<edate>1513266776231</edate>
-		<id>60</id>
-		<nme>Text Profiles On</nme>
+	<Task sr="task63">
+		<cdate>1526152722218</cdate>
+		<edate>1526152999587</edate>
+		<id>63</id>
+		<nme>Google Weather</nme>
+		<pri>7</pri>
 		<Action sr="act0" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Katie</Str>
-			<Int sr="arg1" val="1"/>
+			<code>877</code>
+			<Str sr="arg0" ve="3"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3">dynact://velour/weather/ProxyActivity</Str>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3">com.google.android.googlequicksearchbox</Str>
+			<Str sr="arg8" ve="3">com.google.android.apps.gsa.velour.DynamicActivityTrampoline</Str>
+			<Int sr="arg9" val="1"/>
 		</Action>
-		<Action sr="act1" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Caelum</Str>
-			<Int sr="arg1" val="1"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Jordan</Str>
-			<Int sr="arg1" val="1"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>159</code>
-			<Str sr="arg0" ve="3">Text From Zak</Str>
-			<Int sr="arg1" val="1"/>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagKW</Str>
-			<Str sr="arg1" ve="3">1</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagJP</Str>
-			<Str sr="arg1" ve="3">1</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagZK</Str>
-			<Str sr="arg1" ve="3">1</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act7" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%flagCH</Str>
-			<Str sr="arg1" ve="3">1</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
+		<Img sr="icn" ve="2">
+			<nme>mw_image_wb_sunny</nme>
+		</Img>
 	</Task>
-	<Task sr="task62">
-		<cdate>1513259025263</cdate>
-		<edate>1513269817290</edate>
-		<id>62</id>
-		<nme>Sort Streaks</nme>
+	<Task sr="task68">
+		<cdate>1526189847666</cdate>
+		<edate>1528692711385</edate>
+		<id>68</id>
+		<nme>Play Music</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>354</code>
-			<Str sr="arg0" ve="3">%Streaks</Str>
-			<Str sr="arg1" ve="3">%KatieCount %JordanCount %ZakCount %CaelumCount</Str>
-			<Str sr="arg2" ve="3"/>
-		</Action>
-		<Action sr="act1" ve="7">
-			<code>354</code>
-			<Str sr="arg0" ve="3">%Names</Str>
-			<Str sr="arg1" ve="3">Katie Wiles,Jordan Pond,Zak Keck,Caelum Hubl</Str>
-			<Str sr="arg2" ve="3">,</Str>
-		</Action>
-		<Action sr="act10" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Streaks(%count_j)</Str>
-			<Str sr="arg1" ve="3">%Streaks(%count_i)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act11" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Streaks(%count_i)</Str>
-			<Str sr="arg1" ve="3">%temp</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act12" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%temp_name</Str>
-			<Str sr="arg1" ve="3">%Names(%count_j)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act13" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Names(%count_j)</Str>
-			<Str sr="arg1" ve="3">%Names(%count_i)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act14" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Names(%count_i)</Str>
-			<Str sr="arg1" ve="3">%temp_name</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act15" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%temp_file</Str>
-			<Str sr="arg1" ve="3">%PicFiles(%count_j)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act16" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%PicFiles(%count_j)</Str>
-			<Str sr="arg1" ve="3">%PicFiles(%count_i)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act17" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%PicFiles(%count_i)</Str>
-			<Str sr="arg1" ve="3">%temp_file</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act18" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%temp_num</Str>
-			<Str sr="arg1" ve="3">%Nums(%count_j)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act19" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Nums(%count_j)</Str>
-			<Str sr="arg1" ve="3">%Nums(%count_i)</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act2" ve="7">
-			<code>354</code>
-			<Str sr="arg0" ve="3">%PicFiles</Str>
-			<Str sr="arg1" ve="3">kw jp zk ch</Str>
-			<Str sr="arg2" ve="3"/>
-		</Action>
-		<Action sr="act20" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%Nums(%count_i)</Str>
-			<Str sr="arg1" ve="3">%temp_num</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act21" ve="7">
-			<code>38</code>
-		</Action>
-		<Action sr="act22" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%count_j</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act23" ve="7">
-			<code>135</code>
-			<Int sr="arg0" val="1"/>
-			<Int sr="arg1" val="1"/>
-			<Str sr="arg2" ve="3">innerLoop</Str>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%count_j</lhs>
-					<op>6</op>
-					<rhs>%Streaks(#)+1</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act24" ve="7">
-			<code>888</code>
-			<Str sr="arg0" ve="3">%count_i</Str>
-			<Int sr="arg1" val="1"/>
-			<Int sr="arg2" val="0"/>
-		</Action>
-		<Action sr="act25" ve="7">
-			<code>135</code>
-			<Int sr="arg0" val="1"/>
-			<Int sr="arg1" val="1"/>
-			<Str sr="arg2" ve="3">outerLoop</Str>
-			<ConditionList sr="if">
-				<Condition sr="c0" ve="3">
-					<lhs>%count_i</lhs>
-					<op>6</op>
-					<rhs>%Streaks(#)</rhs>
-				</Condition>
-			</ConditionList>
-		</Action>
-		<Action sr="act26" ve="7">
-			<code>130</code>
-			<Str sr="arg0" ve="3">Print Streaks</Str>
-			<Int sr="arg1">
-				<var>%priority</var>
-			</Int>
-			<Str sr="arg2" ve="3"/>
-			<Str sr="arg3" ve="3"/>
-			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="0"/>
-		</Action>
-		<Action sr="act3" ve="7">
-			<code>354</code>
-			<Str sr="arg0" ve="3">%Nums</Str>
-			<Str sr="arg1" ve="3">4028533538 4027700242 4024184068 4023265634</Str>
-			<Str sr="arg2" ve="3"/>
-		</Action>
-		<Action sr="act4" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%count_i</Str>
-			<Str sr="arg1" ve="3">1</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act5" ve="7">
-			<code>300</code>
-			<label>outerLoop</label>
-		</Action>
-		<Action sr="act6" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%count_j</Str>
-			<Str sr="arg1" ve="3">%count_i</Str>
-			<Int sr="arg2" val="0"/>
-			<Int sr="arg3" val="0"/>
-			<Int sr="arg4" val="0"/>
-		</Action>
-		<Action sr="act7" ve="7">
-			<code>300</code>
-			<label>innerLoop</label>
-		</Action>
-		<Action sr="act8" ve="7">
 			<code>37</code>
 			<ConditionList sr="if">
 				<Condition sr="c0" ve="3">
-					<lhs>%Streaks(%count_i)</lhs>
-					<op>7</op>
-					<rhs>%Streaks(%count_j)</rhs>
+					<lhs>%TRUN</lhs>
+					<op>2</op>
+					<rhs>*Parking Profile Off*</rhs>
 				</Condition>
 			</ConditionList>
 		</Action>
-		<Action sr="act9" ve="7">
-			<code>547</code>
-			<Str sr="arg0" ve="3">%temp</Str>
-			<Str sr="arg1" ve="3">%Streaks(%count_j)</Str>
+		<Action sr="act1" ve="7">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Parking Profile Off</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>38</code>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+				<appPkg>com.google.android.music</appPkg>
+				<label>Play Music</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="7"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
 			<Int sr="arg4" val="0"/>
 		</Action>
-	</Task>
-	<Task sr="task64">
-		<cdate>1513269480621</cdate>
-		<edate>1513269782666</edate>
-		<id>64</id>
-		<nme>SMS First</nme>
-		<pri>7</pri>
-		<Action sr="act0" ve="7">
-			<code>250</code>
-			<Str sr="arg0" ve="3">%Nums(4)</Str>
-			<Str sr="arg1" ve="3"/>
+		<Action sr="act5" ve="7">
+			<code>443</code>
+			<Int sr="arg0" val="5"/>
+			<Int sr="arg1" val="1"/>
+			<App sr="arg2">
+				<appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+				<appPkg>com.google.android.music</appPkg>
+				<label>Play Music</label>
+			</App>
 		</Action>
 		<Img sr="icn" ve="2">
-			<nme>mw_communication_textsms</nme>
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
 		</Img>
 	</Task>
-	<Task sr="task65">
-		<cdate>1513269525328</cdate>
-		<edate>1513269789741</edate>
-		<id>65</id>
-		<nme>SMS Second</nme>
-		<pri>7</pri>
+	<Task sr="task71">
+		<cdate>1527025021810</cdate>
+		<edate>1527174724177</edate>
+		<id>71</id>
+		<nme>Do Not Disturb</nme>
 		<Action sr="act0" ve="7">
-			<code>250</code>
-			<Str sr="arg0" ve="3">%Nums(3)</Str>
-			<Str sr="arg1" ve="3"/>
+			<code>312</code>
+			<Int sr="arg0" val="3"/>
 		</Action>
-		<Img sr="icn" ve="2">
-			<nme>mw_communication_textsms</nme>
-		</Img>
-	</Task>
-	<Task sr="task66">
-		<cdate>1513269544340</cdate>
-		<edate>1513269792462</edate>
-		<id>66</id>
-		<nme>SMS Third</nme>
-		<pri>7</pri>
-		<Action sr="act0" ve="7">
-			<code>250</code>
-			<Str sr="arg0" ve="3">%Nums(2)</Str>
-			<Str sr="arg1" ve="3"/>
-		</Action>
-		<Img sr="icn" ve="2">
-			<nme>mw_communication_textsms</nme>
-		</Img>
-	</Task>
-	<Task sr="task67">
-		<cdate>1513269564964</cdate>
-		<edate>1513269794280</edate>
-		<id>67</id>
-		<nme>SMS Fourth</nme>
-		<pri>7</pri>
-		<Action sr="act0" ve="7">
-			<code>250</code>
-			<Str sr="arg0" ve="3">%Nums(1)</Str>
-			<Str sr="arg1" ve="3"/>
-		</Action>
-		<Img sr="icn" ve="2">
-			<nme>mw_communication_textsms</nme>
-		</Img>
 	</Task>
 	<Task sr="task8">
 		<cdate>1475639066416</cdate>
-		<edate>1504822790644</edate>
+		<edate>1525928671460</edate>
 		<id>8</id>
 		<nme>UBT Lock</nme>
 		<Action sr="act0" ve="7">
@@ -3577,19 +2299,19 @@ Fingerprint Dialog Status: True / False if finger was authenticated
 			<Int sr="arg3" val="100"/>
 		</Action>
 		<Img sr="icn" ve="2">
-			<cls>nz.co.mcom.phone.login.SplashscreenActivity</cls>
+			<cls>com.ubt.mobile.MainActivity</cls>
 			<pkg>com.ubt.mobile</pkg>
 		</Img>
 	</Task>
 	<Task sr="task9">
 		<cdate>1466312944470</cdate>
-		<edate>1475528942299</edate>
+		<edate>1527907258947</edate>
 		<id>9</id>
 		<nme>Dim Screen</nme>
-		<pri>100</pri>
+		<pri>6</pri>
 		<Action sr="act0" ve="7">
 			<code>810</code>
-			<Int sr="arg0" val="50"/>
+			<Int sr="arg0" val="30"/>
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="0"/>
 			<Int sr="arg3" val="0"/>
